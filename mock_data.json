@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 6,
+        "name": "Yamaha RGX121Z",
+        "string_count": 6,
+        "stock_quantity": 7,
+        "store_location": "Warehouse A",
+        "price": 329.99,
+        "image_url": "http://example.com/images/yamaha_rgx121z.jpg",
+        "specs": "Basswood body, Maple neck, Rosewood fretboard"
+    },
+    {
+        "id": 7,
+        "name": "PRS SE Custom 24",
+        "string_count": 6,
+        "stock_quantity": 2,
+        "store_location": "Warehouse B",
+        "price": 749.99,
+        "image_url": "http://example.com/images/prs_se_custom24.jpg",
+        "specs": "Mahogany body, Maple top, Rosewood fretboard"
+    },
+    {
+        "id": 8,
+        "name": "Dean ML79",
+        "string_count": 6,
+        "stock_quantity": 5,
+        "store_location": "Warehouse C",
+        "price": 599.99,
+        "image_url": "http://example.com/images/dean_ml79.jpg",
+        "specs": "Mahogany body, Mahogany neck, Pau Ferro fretboard"
+    },
+    {
+        "id": 9,
+        "name": "Kiesel Aries A6",
+        "string_count": 6,
+        "stock_quantity": 1,
+        "store_location": "Warehouse D",
+        "price": 1399.99,
+        "image_url": "http://example.com/images/kiesel_aries_a6.jpg",
+        "specs": "Alder body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 10,
+        "name": "Harley Benton Amarok-7",
+        "string_count": 7,
+        "stock_quantity": 4,
+        "store_location": "Warehouse E",
+        "price": 449.99,
+        "image_url": "http://example.com/images/harley_benton_amarok7.jpg",
+        "specs": "Mahogany body, Maple top, Ebony fretboard"
+    },
+    {
+        "id": 11,
+        "name": "Charvel Pro-Mod DK24",
+        "string_count": 6,
+        "stock_quantity": 6,
+        "store_location": "Warehouse A",
+        "price": 949.99,
+        "image_url": "http://example.com/images/charvel_dk24.jpg",
+        "specs": "Alder body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 12,
+        "name": "Solar Guitars A1.7",
+        "string_count": 7,
+        "stock_quantity": 2,
+        "store_location": "Warehouse B",
+        "price": 1099.99,
+        "image_url": "http://example.com/images/solar_a1_7.jpg",
+        "specs": "Alder body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 13,
+        "name": "Ibanez RG550",
+        "string_count": 6,
+        "stock_quantity": 3,
+        "store_location": "Warehouse C",
+        "price": 899.99,
+        "image_url": "http://example.com/images/ibanez_rg550.jpg",
+        "specs": "Basswood body, Maple neck, Maple fretboard"
+    },
+    {
+        "id": 14,
+        "name": "Schecter Reaper-7",
+        "string_count": 7,
+        "stock_quantity": 3,
+        "store_location": "Warehouse D",
+        "price": 699.99,
+        "image_url": "http://example.com/images/schecter_reaper7.jpg",
+        "specs": "Swamp Ash body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 15,
+        "name": "ESP E-II Horizon",
+        "string_count": 6,
+        "stock_quantity": 1,
+        "store_location": "Warehouse E",
+        "price": 1899.99,
+        "image_url": "http://example.com/images/esp_e2_horizon.jpg",
+        "specs": "Mahogany body, Maple top, Ebony fretboard"
+    },
+    {
+        "id": 16,
+        "name": "Ibanez RG550 Variant 16",
+        "string_count": 6,
+        "stock_quantity": 2,
+        "store_location": "Warehouse D",
+        "price": 875.95,
+        "image_url": "http://example.com/images/ibanez_rg550_16.jpg",
+        "specs": "Basswood body, Maple neck, Maple fretboard"
+    },
+    {
+        "id": 17,
+        "name": "Kiesel Aries A6 Variant 17",
+        "string_count": 6,
+        "stock_quantity": 6,
+        "store_location": "Warehouse E",
+        "price": 1404.82,
+        "image_url": "http://example.com/images/kiesel_aries_a6_17.jpg",
+        "specs": "Alder body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 18,
+        "name": "Schecter Reaper-7 Variant 18",
+        "string_count": 7,
+        "stock_quantity": 5,
+        "store_location": "Warehouse D",
+        "price": 723.87,
+        "image_url": "http://example.com/images/schecter_reaper7_18.jpg",
+        "specs": "Swamp Ash body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 19,
+        "name": "ESP E-II Horizon Variant 19",
+        "string_count": 6,
+        "stock_quantity": 7,
+        "store_location": "Warehouse A",
+        "price": 1938.49,
+        "image_url": "http://example.com/images/esp_e2_horizon_19.jpg",
+        "specs": "Mahogany body, Maple top, Ebony fretboard"
+    },
+    {
+        "id": 20,
+        "name": "Solar Guitars A1.7 Variant 20",
+        "string_count": 7,
+        "stock_quantity": 10,
+        "store_location": "Warehouse E",
+        "price": 1003.47,
+        "image_url": "http://example.com/images/solar_a1_7_20.jpg",
+        "specs": "Alder body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 21,
+        "name": "Kiesel Aries A6 Variant 21",
+        "string_count": 6,
+        "stock_quantity": 1,
+        "store_location": "Warehouse D",
+        "price": 1530.17,
+        "image_url": "http://example.com/images/kiesel_aries_a6_21.jpg",
+        "specs": "Alder body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 22,
+        "name": "Dean ML79 Variant 22",
+        "string_count": 6,
+        "stock_quantity": 3,
+        "store_location": "Warehouse A",
+        "price": 634.84,
+        "image_url": "http://example.com/images/dean_ml79_22.jpg",
+        "specs": "Mahogany body, Mahogany neck, Pau Ferro fretboard"
+    },
+    {
+        "id": 23,
+        "name": "Kiesel Aries A6 Variant 23",
+        "string_count": 6,
+        "stock_quantity": 2,
+        "store_location": "Warehouse A",
+        "price": 1359.82,
+        "image_url": "http://example.com/images/kiesel_aries_a6_23.jpg",
+        "specs": "Alder body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 24,
+        "name": "Solar Guitars A1.7 Variant 24",
+        "string_count": 7,
+        "stock_quantity": 10,
+        "store_location": "Warehouse E",
+        "price": 1060.6,
+        "image_url": "http://example.com/images/solar_a1_7_24.jpg",
+        "specs": "Alder body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 25,
+        "name": "ESP E-II Horizon Variant 25",
+        "string_count": 6,
+        "stock_quantity": 5,
+        "store_location": "Warehouse B",
+        "price": 2075.35,
+        "image_url": "http://example.com/images/esp_e2_horizon_25.jpg",
+        "specs": "Mahogany body, Maple top, Ebony fretboard"
+    },
+    {
+        "id": 26,
+        "name": "Yamaha RGX121Z Variant 26",
+        "string_count": 6,
+        "stock_quantity": 7,
+        "store_location": "Warehouse C",
+        "price": 317.26,
+        "image_url": "http://example.com/images/yamaha_rgx121z_26.jpg",
+        "specs": "Basswood body, Maple neck, Rosewood fretboard"
+    },
+    {
+        "id": 27,
+        "name": "Solar Guitars A1.7 Variant 27",
+        "string_count": 7,
+        "stock_quantity": 3,
+        "store_location": "Warehouse C",
+        "price": 1149.26,
+        "image_url": "http://example.com/images/solar_a1_7_27.jpg",
+        "specs": "Alder body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 28,
+        "name": "Charvel Pro-Mod DK24 Variant 28",
+        "string_count": 6,
+        "stock_quantity": 4,
+        "store_location": "Warehouse E",
+        "price": 941.82,
+        "image_url": "http://example.com/images/charvel_dk24_28.jpg",
+        "specs": "Alder body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 29,
+        "name": "Schecter Reaper-7 Variant 29",
+        "string_count": 7,
+        "stock_quantity": 9,
+        "store_location": "Warehouse C",
+        "price": 745.23,
+        "image_url": "http://example.com/images/schecter_reaper7_29.jpg",
+        "specs": "Swamp Ash body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 30,
+        "name": "Kiesel Aries A6 Variant 30",
+        "string_count": 6,
+        "stock_quantity": 1,
+        "store_location": "Warehouse B",
+        "price": 1322.6,
+        "image_url": "http://example.com/images/kiesel_aries_a6_30.jpg",
+        "specs": "Alder body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 31,
+        "name": "Kiesel Aries A6 Variant 31",
+        "string_count": 6,
+        "stock_quantity": 3,
+        "store_location": "Warehouse B",
+        "price": 1349.92,
+        "image_url": "http://example.com/images/kiesel_aries_a6_31.jpg",
+        "specs": "Alder body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 32,
+        "name": "Harley Benton Amarok-7 Variant 32",
+        "string_count": 7,
+        "stock_quantity": 3,
+        "store_location": "Warehouse A",
+        "price": 457.88,
+        "image_url": "http://example.com/images/harley_benton_amarok7_32.jpg",
+        "specs": "Mahogany body, Maple top, Ebony fretboard"
+    },
+    {
+        "id": 33,
+        "name": "Yamaha RGX121Z Variant 33",
+        "string_count": 6,
+        "stock_quantity": 10,
+        "store_location": "Warehouse B",
+        "price": 346.27,
+        "image_url": "http://example.com/images/yamaha_rgx121z_33.jpg",
+        "specs": "Basswood body, Maple neck, Rosewood fretboard"
+    },
+    {
+        "id": 34,
+        "name": "Harley Benton Amarok-7 Variant 34",
+        "string_count": 7,
+        "stock_quantity": 10,
+        "store_location": "Warehouse C",
+        "price": 441.17,
+        "image_url": "http://example.com/images/harley_benton_amarok7_34.jpg",
+        "specs": "Mahogany body, Maple top, Ebony fretboard"
+    },
+    {
+        "id": 35,
+        "name": "ESP E-II Horizon Variant 35",
+        "string_count": 6,
+        "stock_quantity": 1,
+        "store_location": "Warehouse E",
+        "price": 1780.54,
+        "image_url": "http://example.com/images/esp_e2_horizon_35.jpg",
+        "specs": "Mahogany body, Maple top, Ebony fretboard"
+    },
+    {
+        "id": 36,
+        "name": "Schecter Reaper-7 Variant 36",
+        "string_count": 7,
+        "stock_quantity": 7,
+        "store_location": "Warehouse B",
+        "price": 749.52,
+        "image_url": "http://example.com/images/schecter_reaper7_36.jpg",
+        "specs": "Swamp Ash body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 37,
+        "name": "Solar Guitars A1.7 Variant 37",
+        "string_count": 7,
+        "stock_quantity": 3,
+        "store_location": "Warehouse C",
+        "price": 1044.74,
+        "image_url": "http://example.com/images/solar_a1_7_37.jpg",
+        "specs": "Alder body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 38,
+        "name": "Solar Guitars A1.7 Variant 38",
+        "string_count": 7,
+        "stock_quantity": 6,
+        "store_location": "Warehouse E",
+        "price": 1005.79,
+        "image_url": "http://example.com/images/solar_a1_7_38.jpg",
+        "specs": "Alder body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 39,
+        "name": "Charvel Pro-Mod DK24 Variant 39",
+        "string_count": 6,
+        "stock_quantity": 5,
+        "store_location": "Warehouse A",
+        "price": 1035.53,
+        "image_url": "http://example.com/images/charvel_dk24_39.jpg",
+        "specs": "Alder body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 40,
+        "name": "Kiesel Aries A6 Variant 40",
+        "string_count": 6,
+        "stock_quantity": 8,
+        "store_location": "Warehouse E",
+        "price": 1494.61,
+        "image_url": "http://example.com/images/kiesel_aries_a6_40.jpg",
+        "specs": "Alder body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 41,
+        "name": "Solar Guitars A1.7 Variant 41",
+        "string_count": 7,
+        "stock_quantity": 6,
+        "store_location": "Warehouse C",
+        "price": 1147.39,
+        "image_url": "http://example.com/images/solar_a1_7_41.jpg",
+        "specs": "Alder body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 42,
+        "name": "PRS SE Custom 24 Variant 42",
+        "string_count": 6,
+        "stock_quantity": 8,
+        "store_location": "Warehouse D",
+        "price": 801.83,
+        "image_url": "http://example.com/images/prs_se_custom24_42.jpg",
+        "specs": "Mahogany body, Maple top, Rosewood fretboard"
+    },
+    {
+        "id": 43,
+        "name": "Schecter Reaper-7 Variant 43",
+        "string_count": 7,
+        "stock_quantity": 9,
+        "store_location": "Warehouse E",
+        "price": 702.6,
+        "image_url": "http://example.com/images/schecter_reaper7_43.jpg",
+        "specs": "Swamp Ash body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 44,
+        "name": "Harley Benton Amarok-7 Variant 44",
+        "string_count": 7,
+        "stock_quantity": 5,
+        "store_location": "Warehouse B",
+        "price": 475.79,
+        "image_url": "http://example.com/images/harley_benton_amarok7_44.jpg",
+        "specs": "Mahogany body, Maple top, Ebony fretboard"
+    },
+    {
+        "id": 45,
+        "name": "Kiesel Aries A6 Variant 45",
+        "string_count": 6,
+        "stock_quantity": 4,
+        "store_location": "Warehouse E",
+        "price": 1523.99,
+        "image_url": "http://example.com/images/kiesel_aries_a6_45.jpg",
+        "specs": "Alder body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 46,
+        "name": "PRS SE Custom 24 Variant 46",
+        "string_count": 6,
+        "stock_quantity": 4,
+        "store_location": "Warehouse D",
+        "price": 681.49,
+        "image_url": "http://example.com/images/prs_se_custom24_46.jpg",
+        "specs": "Mahogany body, Maple top, Rosewood fretboard"
+    },
+    {
+        "id": 47,
+        "name": "Harley Benton Amarok-7 Variant 47",
+        "string_count": 7,
+        "stock_quantity": 10,
+        "store_location": "Warehouse A",
+        "price": 417.96,
+        "image_url": "http://example.com/images/harley_benton_amarok7_47.jpg",
+        "specs": "Mahogany body, Maple top, Ebony fretboard"
+    },
+    {
+        "id": 48,
+        "name": "PRS SE Custom 24 Variant 48",
+        "string_count": 6,
+        "stock_quantity": 7,
+        "store_location": "Warehouse D",
+        "price": 814.32,
+        "image_url": "http://example.com/images/prs_se_custom24_48.jpg",
+        "specs": "Mahogany body, Maple top, Rosewood fretboard"
+    },
+    {
+        "id": 49,
+        "name": "ESP E-II Horizon Variant 49",
+        "string_count": 6,
+        "stock_quantity": 10,
+        "store_location": "Warehouse C",
+        "price": 1857.92,
+        "image_url": "http://example.com/images/esp_e2_horizon_49.jpg",
+        "specs": "Mahogany body, Maple top, Ebony fretboard"
+    },
+    {
+        "id": 50,
+        "name": "Yamaha RGX121Z Variant 50",
+        "string_count": 6,
+        "stock_quantity": 10,
+        "store_location": "Warehouse A",
+        "price": 313.17,
+        "image_url": "http://example.com/images/yamaha_rgx121z_50.jpg",
+        "specs": "Basswood body, Maple neck, Rosewood fretboard"
+    },
+    {
+        "id": 51,
+        "name": "Yamaha RGX121Z Variant 51",
+        "string_count": 6,
+        "stock_quantity": 3,
+        "store_location": "Warehouse C",
+        "price": 360.49,
+        "image_url": "http://example.com/images/yamaha_rgx121z_51.jpg",
+        "specs": "Basswood body, Maple neck, Rosewood fretboard"
+    },
+    {
+        "id": 52,
+        "name": "Schecter Reaper-7 Variant 52",
+        "string_count": 7,
+        "stock_quantity": 5,
+        "store_location": "Warehouse B",
+        "price": 668.68,
+        "image_url": "http://example.com/images/schecter_reaper7_52.jpg",
+        "specs": "Swamp Ash body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 53,
+        "name": "Dean ML79 Variant 53",
+        "string_count": 6,
+        "stock_quantity": 5,
+        "store_location": "Warehouse E",
+        "price": 643.8,
+        "image_url": "http://example.com/images/dean_ml79_53.jpg",
+        "specs": "Mahogany body, Mahogany neck, Pau Ferro fretboard"
+    },
+    {
+        "id": 54,
+        "name": "Kiesel Aries A6 Variant 54",
+        "string_count": 6,
+        "stock_quantity": 10,
+        "store_location": "Warehouse A",
+        "price": 1511.68,
+        "image_url": "http://example.com/images/kiesel_aries_a6_54.jpg",
+        "specs": "Alder body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 55,
+        "name": "Charvel Pro-Mod DK24 Variant 55",
+        "string_count": 6,
+        "stock_quantity": 3,
+        "store_location": "Warehouse E",
+        "price": 1019.83,
+        "image_url": "http://example.com/images/charvel_dk24_55.jpg",
+        "specs": "Alder body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 56,
+        "name": "ESP E-II Horizon Variant 56",
+        "string_count": 6,
+        "stock_quantity": 10,
+        "store_location": "Warehouse A",
+        "price": 1750.6,
+        "image_url": "http://example.com/images/esp_e2_horizon_56.jpg",
+        "specs": "Mahogany body, Maple top, Ebony fretboard"
+    },
+    {
+        "id": 57,
+        "name": "Schecter Reaper-7 Variant 57",
+        "string_count": 7,
+        "stock_quantity": 3,
+        "store_location": "Warehouse A",
+        "price": 722.55,
+        "image_url": "http://example.com/images/schecter_reaper7_57.jpg",
+        "specs": "Swamp Ash body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 58,
+        "name": "Ibanez RG550 Variant 58",
+        "string_count": 6,
+        "stock_quantity": 9,
+        "store_location": "Warehouse E",
+        "price": 813.6,
+        "image_url": "http://example.com/images/ibanez_rg550_58.jpg",
+        "specs": "Basswood body, Maple neck, Maple fretboard"
+    },
+    {
+        "id": 59,
+        "name": "Yamaha RGX121Z Variant 59",
+        "string_count": 6,
+        "stock_quantity": 10,
+        "store_location": "Warehouse D",
+        "price": 321.33,
+        "image_url": "http://example.com/images/yamaha_rgx121z_59.jpg",
+        "specs": "Basswood body, Maple neck, Rosewood fretboard"
+    },
+    {
+        "id": 60,
+        "name": "Charvel Pro-Mod DK24 Variant 60",
+        "string_count": 6,
+        "stock_quantity": 6,
+        "store_location": "Warehouse A",
+        "price": 857.34,
+        "image_url": "http://example.com/images/charvel_dk24_60.jpg",
+        "specs": "Alder body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 61,
+        "name": "Solar Guitars A1.7 Variant 61",
+        "string_count": 7,
+        "stock_quantity": 6,
+        "store_location": "Warehouse C",
+        "price": 1006.9,
+        "image_url": "http://example.com/images/solar_a1_7_61.jpg",
+        "specs": "Alder body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 62,
+        "name": "Ibanez RG550 Variant 62",
+        "string_count": 6,
+        "stock_quantity": 8,
+        "store_location": "Warehouse D",
+        "price": 822.95,
+        "image_url": "http://example.com/images/ibanez_rg550_62.jpg",
+        "specs": "Basswood body, Maple neck, Maple fretboard"
+    },
+    {
+        "id": 63,
+        "name": "Charvel Pro-Mod DK24 Variant 63",
+        "string_count": 6,
+        "stock_quantity": 4,
+        "store_location": "Warehouse A",
+        "price": 955.29,
+        "image_url": "http://example.com/images/charvel_dk24_63.jpg",
+        "specs": "Alder body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 64,
+        "name": "Kiesel Aries A6 Variant 64",
+        "string_count": 6,
+        "stock_quantity": 10,
+        "store_location": "Warehouse D",
+        "price": 1375.13,
+        "image_url": "http://example.com/images/kiesel_aries_a6_64.jpg",
+        "specs": "Alder body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 65,
+        "name": "Kiesel Aries A6 Variant 65",
+        "string_count": 6,
+        "stock_quantity": 1,
+        "store_location": "Warehouse A",
+        "price": 1282.88,
+        "image_url": "http://example.com/images/kiesel_aries_a6_65.jpg",
+        "specs": "Alder body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 66,
+        "name": "PRS SE Custom 24 Variant 66",
+        "string_count": 6,
+        "stock_quantity": 2,
+        "store_location": "Warehouse B",
+        "price": 770.12,
+        "image_url": "http://example.com/images/prs_se_custom24_66.jpg",
+        "specs": "Mahogany body, Maple top, Rosewood fretboard"
+    },
+    {
+        "id": 67,
+        "name": "PRS SE Custom 24 Variant 67",
+        "string_count": 6,
+        "stock_quantity": 7,
+        "store_location": "Warehouse B",
+        "price": 679.86,
+        "image_url": "http://example.com/images/prs_se_custom24_67.jpg",
+        "specs": "Mahogany body, Maple top, Rosewood fretboard"
+    },
+    {
+        "id": 68,
+        "name": "Harley Benton Amarok-7 Variant 68",
+        "string_count": 7,
+        "stock_quantity": 5,
+        "store_location": "Warehouse B",
+        "price": 418.22,
+        "image_url": "http://example.com/images/harley_benton_amarok7_68.jpg",
+        "specs": "Mahogany body, Maple top, Ebony fretboard"
+    },
+    {
+        "id": 69,
+        "name": "ESP E-II Horizon Variant 69",
+        "string_count": 6,
+        "stock_quantity": 6,
+        "store_location": "Warehouse C",
+        "price": 1768.86,
+        "image_url": "http://example.com/images/esp_e2_horizon_69.jpg",
+        "specs": "Mahogany body, Maple top, Ebony fretboard"
+    },
+    {
+        "id": 70,
+        "name": "Yamaha RGX121Z Variant 70",
+        "string_count": 6,
+        "stock_quantity": 9,
+        "store_location": "Warehouse C",
+        "price": 333.02,
+        "image_url": "http://example.com/images/yamaha_rgx121z_70.jpg",
+        "specs": "Basswood body, Maple neck, Rosewood fretboard"
+    },
+    {
+        "id": 71,
+        "name": "Harley Benton Amarok-7 Variant 71",
+        "string_count": 7,
+        "stock_quantity": 7,
+        "store_location": "Warehouse B",
+        "price": 466.13,
+        "image_url": "http://example.com/images/harley_benton_amarok7_71.jpg",
+        "specs": "Mahogany body, Maple top, Ebony fretboard"
+    },
+    {
+        "id": 72,
+        "name": "Harley Benton Amarok-7 Variant 72",
+        "string_count": 7,
+        "stock_quantity": 4,
+        "store_location": "Warehouse C",
+        "price": 465.39,
+        "image_url": "http://example.com/images/harley_benton_amarok7_72.jpg",
+        "specs": "Mahogany body, Maple top, Ebony fretboard"
+    },
+    {
+        "id": 73,
+        "name": "ESP E-II Horizon Variant 73",
+        "string_count": 6,
+        "stock_quantity": 10,
+        "store_location": "Warehouse E",
+        "price": 2003.71,
+        "image_url": "http://example.com/images/esp_e2_horizon_73.jpg",
+        "specs": "Mahogany body, Maple top, Ebony fretboard"
+    },
+    {
+        "id": 74,
+        "name": "ESP E-II Horizon Variant 74",
+        "string_count": 6,
+        "stock_quantity": 2,
+        "store_location": "Warehouse A",
+        "price": 1949.05,
+        "image_url": "http://example.com/images/esp_e2_horizon_74.jpg",
+        "specs": "Mahogany body, Maple top, Ebony fretboard"
+    },
+    {
+        "id": 75,
+        "name": "Dean ML79 Variant 75",
+        "string_count": 6,
+        "stock_quantity": 1,
+        "store_location": "Warehouse E",
+        "price": 590.18,
+        "image_url": "http://example.com/images/dean_ml79_75.jpg",
+        "specs": "Mahogany body, Mahogany neck, Pau Ferro fretboard"
+    },
+    {
+        "id": 76,
+        "name": "PRS SE Custom 24 Variant 76",
+        "string_count": 6,
+        "stock_quantity": 6,
+        "store_location": "Warehouse C",
+        "price": 748.6,
+        "image_url": "http://example.com/images/prs_se_custom24_76.jpg",
+        "specs": "Mahogany body, Maple top, Rosewood fretboard"
+    },
+    {
+        "id": 77,
+        "name": "Yamaha RGX121Z Variant 77",
+        "string_count": 6,
+        "stock_quantity": 1,
+        "store_location": "Warehouse A",
+        "price": 302.66,
+        "image_url": "http://example.com/images/yamaha_rgx121z_77.jpg",
+        "specs": "Basswood body, Maple neck, Rosewood fretboard"
+    },
+    {
+        "id": 78,
+        "name": "PRS SE Custom 24 Variant 78",
+        "string_count": 6,
+        "stock_quantity": 6,
+        "store_location": "Warehouse A",
+        "price": 750.41,
+        "image_url": "http://example.com/images/prs_se_custom24_78.jpg",
+        "specs": "Mahogany body, Maple top, Rosewood fretboard"
+    },
+    {
+        "id": 79,
+        "name": "Harley Benton Amarok-7 Variant 79",
+        "string_count": 7,
+        "stock_quantity": 6,
+        "store_location": "Warehouse A",
+        "price": 472.64,
+        "image_url": "http://example.com/images/harley_benton_amarok7_79.jpg",
+        "specs": "Mahogany body, Maple top, Ebony fretboard"
+    },
+    {
+        "id": 80,
+        "name": "Yamaha RGX121Z Variant 80",
+        "string_count": 6,
+        "stock_quantity": 7,
+        "store_location": "Warehouse B",
+        "price": 335.66,
+        "image_url": "http://example.com/images/yamaha_rgx121z_80.jpg",
+        "specs": "Basswood body, Maple neck, Rosewood fretboard"
+    },
+    {
+        "id": 81,
+        "name": "PRS SE Custom 24 Variant 81",
+        "string_count": 6,
+        "stock_quantity": 5,
+        "store_location": "Warehouse B",
+        "price": 824.28,
+        "image_url": "http://example.com/images/prs_se_custom24_81.jpg",
+        "specs": "Mahogany body, Maple top, Rosewood fretboard"
+    },
+    {
+        "id": 82,
+        "name": "PRS SE Custom 24 Variant 82",
+        "string_count": 6,
+        "stock_quantity": 9,
+        "store_location": "Warehouse B",
+        "price": 769.16,
+        "image_url": "http://example.com/images/prs_se_custom24_82.jpg",
+        "specs": "Mahogany body, Maple top, Rosewood fretboard"
+    },
+    {
+        "id": 83,
+        "name": "Yamaha RGX121Z Variant 83",
+        "string_count": 6,
+        "stock_quantity": 4,
+        "store_location": "Warehouse A",
+        "price": 325.67,
+        "image_url": "http://example.com/images/yamaha_rgx121z_83.jpg",
+        "specs": "Basswood body, Maple neck, Rosewood fretboard"
+    },
+    {
+        "id": 84,
+        "name": "ESP E-II Horizon Variant 84",
+        "string_count": 6,
+        "stock_quantity": 1,
+        "store_location": "Warehouse B",
+        "price": 1874.46,
+        "image_url": "http://example.com/images/esp_e2_horizon_84.jpg",
+        "specs": "Mahogany body, Maple top, Ebony fretboard"
+    },
+    {
+        "id": 85,
+        "name": "Kiesel Aries A6 Variant 85",
+        "string_count": 6,
+        "stock_quantity": 10,
+        "store_location": "Warehouse A",
+        "price": 1416.61,
+        "image_url": "http://example.com/images/kiesel_aries_a6_85.jpg",
+        "specs": "Alder body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 86,
+        "name": "Schecter Reaper-7 Variant 86",
+        "string_count": 7,
+        "stock_quantity": 2,
+        "store_location": "Warehouse D",
+        "price": 701.8,
+        "image_url": "http://example.com/images/schecter_reaper7_86.jpg",
+        "specs": "Swamp Ash body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 87,
+        "name": "Charvel Pro-Mod DK24 Variant 87",
+        "string_count": 6,
+        "stock_quantity": 8,
+        "store_location": "Warehouse B",
+        "price": 1022.25,
+        "image_url": "http://example.com/images/charvel_dk24_87.jpg",
+        "specs": "Alder body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 88,
+        "name": "Schecter Reaper-7 Variant 88",
+        "string_count": 7,
+        "stock_quantity": 5,
+        "store_location": "Warehouse D",
+        "price": 632.18,
+        "image_url": "http://example.com/images/schecter_reaper7_88.jpg",
+        "specs": "Swamp Ash body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 89,
+        "name": "Yamaha RGX121Z Variant 89",
+        "string_count": 6,
+        "stock_quantity": 3,
+        "store_location": "Warehouse C",
+        "price": 312.65,
+        "image_url": "http://example.com/images/yamaha_rgx121z_89.jpg",
+        "specs": "Basswood body, Maple neck, Rosewood fretboard"
+    },
+    {
+        "id": 90,
+        "name": "Schecter Reaper-7 Variant 90",
+        "string_count": 7,
+        "stock_quantity": 2,
+        "store_location": "Warehouse E",
+        "price": 736.7,
+        "image_url": "http://example.com/images/schecter_reaper7_90.jpg",
+        "specs": "Swamp Ash body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 91,
+        "name": "Yamaha RGX121Z Variant 91",
+        "string_count": 6,
+        "stock_quantity": 7,
+        "store_location": "Warehouse E",
+        "price": 345.31,
+        "image_url": "http://example.com/images/yamaha_rgx121z_91.jpg",
+        "specs": "Basswood body, Maple neck, Rosewood fretboard"
+    },
+    {
+        "id": 92,
+        "name": "Harley Benton Amarok-7 Variant 92",
+        "string_count": 7,
+        "stock_quantity": 9,
+        "store_location": "Warehouse A",
+        "price": 428.03,
+        "image_url": "http://example.com/images/harley_benton_amarok7_92.jpg",
+        "specs": "Mahogany body, Maple top, Ebony fretboard"
+    },
+    {
+        "id": 93,
+        "name": "Harley Benton Amarok-7 Variant 93",
+        "string_count": 7,
+        "stock_quantity": 2,
+        "store_location": "Warehouse B",
+        "price": 436.97,
+        "image_url": "http://example.com/images/harley_benton_amarok7_93.jpg",
+        "specs": "Mahogany body, Maple top, Ebony fretboard"
+    },
+    {
+        "id": 94,
+        "name": "Charvel Pro-Mod DK24 Variant 94",
+        "string_count": 6,
+        "stock_quantity": 5,
+        "store_location": "Warehouse B",
+        "price": 1009.55,
+        "image_url": "http://example.com/images/charvel_dk24_94.jpg",
+        "specs": "Alder body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 95,
+        "name": "Solar Guitars A1.7 Variant 95",
+        "string_count": 7,
+        "stock_quantity": 7,
+        "store_location": "Warehouse C",
+        "price": 1168.01,
+        "image_url": "http://example.com/images/solar_a1_7_95.jpg",
+        "specs": "Alder body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 96,
+        "name": "Yamaha RGX121Z Variant 96",
+        "string_count": 6,
+        "stock_quantity": 2,
+        "store_location": "Warehouse A",
+        "price": 336.17,
+        "image_url": "http://example.com/images/yamaha_rgx121z_96.jpg",
+        "specs": "Basswood body, Maple neck, Rosewood fretboard"
+    },
+    {
+        "id": 97,
+        "name": "Yamaha RGX121Z Variant 97",
+        "string_count": 6,
+        "stock_quantity": 5,
+        "store_location": "Warehouse E",
+        "price": 337.45,
+        "image_url": "http://example.com/images/yamaha_rgx121z_97.jpg",
+        "specs": "Basswood body, Maple neck, Rosewood fretboard"
+    },
+    {
+        "id": 98,
+        "name": "Kiesel Aries A6 Variant 98",
+        "string_count": 6,
+        "stock_quantity": 4,
+        "store_location": "Warehouse E",
+        "price": 1539.32,
+        "image_url": "http://example.com/images/kiesel_aries_a6_98.jpg",
+        "specs": "Alder body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 99,
+        "name": "PRS SE Custom 24 Variant 99",
+        "string_count": 6,
+        "stock_quantity": 10,
+        "store_location": "Warehouse A",
+        "price": 728.56,
+        "image_url": "http://example.com/images/prs_se_custom24_99.jpg",
+        "specs": "Mahogany body, Maple top, Rosewood fretboard"
+    },
+    {
+        "id": 100,
+        "name": "Charvel Pro-Mod DK24 Variant 100",
+        "string_count": 6,
+        "stock_quantity": 6,
+        "store_location": "Warehouse C",
+        "price": 964.73,
+        "image_url": "http://example.com/images/charvel_dk24_100.jpg",
+        "specs": "Alder body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 101,
+        "name": "Solar Guitars A1.7 Variant 101",
+        "string_count": 7,
+        "stock_quantity": 10,
+        "store_location": "Warehouse D",
+        "price": 1135.83,
+        "image_url": "http://example.com/images/solar_a1_7_101.jpg",
+        "specs": "Alder body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 102,
+        "name": "Schecter Reaper-7 Variant 102",
+        "string_count": 7,
+        "stock_quantity": 10,
+        "store_location": "Warehouse C",
+        "price": 754.74,
+        "image_url": "http://example.com/images/schecter_reaper7_102.jpg",
+        "specs": "Swamp Ash body, Maple neck, Ebony fretboard"
+    },
+    {
+        "id": 103,
+        "name": "Dean ML79 Variant 103",
+        "string_count": 6,
+        "stock_quantity": 9,
+        "store_location": "Warehouse C",
+        "price": 616.54,
+        "image_url": "http://example.com/images/dean_ml79_103.jpg",
+        "specs": "Mahogany body, Mahogany neck, Pau Ferro fretboard"
+    },
+    {
+        "id": 104,
+        "name": "Ibanez RG550 Variant 104",
+        "string_count": 6,
+        "stock_quantity": 7,
+        "store_location": "Warehouse E",
+        "price": 896.4,
+        "image_url": "http://example.com/images/ibanez_rg550_104.jpg",
+        "specs": "Basswood body, Maple neck, Maple fretboard"
+    },
+    {
+        "id": 105,
+        "name": "Dean ML79 Variant 105",
+        "string_count": 6,
+        "stock_quantity": 6,
+        "store_location": "Warehouse C",
+        "price": 658.61,
+        "image_url": "http://example.com/images/dean_ml79_105.jpg",
+        "specs": "Mahogany body, Mahogany neck, Pau Ferro fretboard"
+    }
+]
