@@ -3,7 +3,7 @@ import requests
 import re
 
 # Configuration
-API_URL = "http://localhost:8000/ask"
+API_URL = "https://the-guitar-emporium.onrender.com/ask"
 IMAGE_PATTERN = r'(https?://\S+\.(?:png|jpg|jpeg|gif))'
 
 # Page setup
