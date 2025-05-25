@@ -4,6 +4,11 @@ A modern, AI-powered guitar store showcase app built with **FastAPI** and **Stre
 
 ---
 
+## 🧭 Live Demo  
+🎸 **Try it now:** [https://the-guitar-emporium-app.onrender.com](https://the-guitar-emporium-app.onrender.com)
+
+---
+
 ## ✨ Features
 - **Conversational AI**: Ask about guitars, specs, price ranges, and more.
 - **Beautiful UI**: Retro-inspired, mobile-friendly design with product cards and images.
